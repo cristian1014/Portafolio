@@ -2458,8 +2458,8 @@ select.mobile-device {
 .btn-dark {
     padding: 13px 40px;
     font-size: 18px;
-    border: 1px solid #ececec !important;
-    color: #1f1f1f;
+    border: 1px solid #c81d11 !important;
+    color: #c81d11;
     background-color: transparent;
 }
 
